@@ -1,0 +1,24 @@
+.odd {
+    background-color: pink;
+}
+
+#small {
+    font-size: 28px;
+}
+
+#second {
+    color: blue;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+#third {
+    font-size: 38px;
+    font-weight: 500;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 32px;
+    font-weight: 800;
+}
